@@ -1,0 +1,40 @@
+#flaticon {
+    font-size: 10px;
+    padding-top: 30px;
+}
+
+.footer {
+    padding-bottom: 30px;
+}
+
+.box-cargo {
+    font-size: 13px;
+    text-align: center;
+    color: white;
+    background-color: rgb(34, 34, 34);
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.icones-card {
+    width: 16px;
+    height: 16px;
+}
+
+.card-content td {
+    font-size: 13px;
+}
+
+.content article.media .is-left {
+    min-width: fit-content;
+}
+
+figure.logo-experiencias {
+    margin-top: 1.3333em;
+    width: 96px;
+    height: 96px;
+}
+
+h5[class="level-item"] {
+    margin-bottom: 0px;
+}
